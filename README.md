@@ -1,1 +1,1 @@
-# 1
+# Welcome to my GitHub profile. In this folder I will share some of my academic projects. My first project was created for my bachelor thesis and is a simulation of an investment strategy based on the buy signals by two recurrent neural networks.
